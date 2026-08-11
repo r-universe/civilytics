@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/civilytics/civilytics.r-universe.dev
 	branch = HEAD
+[submodule "uscogdata"]
+	path = uscogdata
+	url = https://github.com/civilytics/uscogdata
+	branch = v0.4.0
