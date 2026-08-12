@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/civilytics/civilytics.r-universe.dev
 	branch = HEAD
-[submodule "fbi_cde"]
-	path = fbi_cde
+[submodule "fbiCDE"]
+	path = fbiCDE
 	url = https://github.com/civilytics/fbi_cde
 	branch = v0.1.0
 [submodule "uscogdata"]
