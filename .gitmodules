@@ -5,7 +5,7 @@
 [submodule "fbiCDE"]
 	path = fbiCDE
 	url = https://github.com/civilytics/fbi_cde
-	branch = v0.1.0
+	branch = v0.2.0
 [submodule "uscogdata"]
 	path = uscogdata
 	url = https://github.com/civilytics/uscogdata
